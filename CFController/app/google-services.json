@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1090985322316",
+    "firebase_url": "https://crowdfinding-9f102.firebaseio.com",
+    "project_id": "crowdfinding-9f102",
+    "storage_bucket": "crowdfinding-9f102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090985322316:android:8b677c79448bc163",
+        "android_client_info": {
+          "package_name": "com.charleshested.cfcollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090985322316-4b4opne34pfbgsik2ao7kqron9qlld69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtoN77xLziEMFmFwGwVWKei9SmnSu6qB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090985322316:android:f6b0308c50a1830d",
+        "android_client_info": {
+          "package_name": "com.charleshested.cfcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090985322316-4b4opne34pfbgsik2ao7kqron9qlld69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtoN77xLziEMFmFwGwVWKei9SmnSu6qB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

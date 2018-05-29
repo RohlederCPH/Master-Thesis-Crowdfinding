@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CF Controller</string>
+    <string name="location_experiment">Location Experiment</string>
+    <string name="download_rssi_data">Download RSSI data</string>
+    <string name="download_accuracy_data">Download Accuracy Data</string>
+    <string name="rssi_analysis">Rssi Analysis</string>
+    <string name="rssi_evaluation">Rssi Evaluation</string>
+
+    <string name="map_and_analysis">Map and Analysis</string>
+    <string name="rssi_and_distance">RSSI and distance</string>
+    <string name="location_of_the_bicycle">Location of the bicycle</string>
+    <string name="set_function_coefficients">Set Function Coefficients</string>
+    <string name="function_coefficients">Function Coefficients</string>
+
+    <string name="label_distance">Distance:</string>
+    <string name="startbtn">Start</string>
+    <string name="phone_label">Phone Model:</string>
+    <string name="median_label">Median:</string>
+    <string name="label_stdev">StDev:</string>
+    <string name="push_to_phone">Push to phone</string>
+    <string name="value_a">Value a:</string>
+    <string name="value_b">Value b:</string>
+    <string name="mean_label">Mean:</string>
+    <string name="na">N/A</string>
+    <string name="samsung_6">Samsung 6:</string>
+    <string name="samsung_8">Samsung 8:</string>
+    <string name="samsung_6_btn">Samsung 6</string>
+    <string name="samsung_8_btn">Samsung 8</string>
+    <string name="error">Error:</string>
+    <string name="exp_name_lable">Name:</string>
+</resources>
