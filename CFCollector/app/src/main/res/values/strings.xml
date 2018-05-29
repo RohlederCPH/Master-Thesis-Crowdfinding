@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CF Collector</string>
+    <string name="data_points">Data points</string>
+    <string name="area">Area:</string>
+    <string name="position">Position:</string>
+    <string name="distance">Distance:</string>
+    <string name="experiment">Experiment:</string>
+</resources>
