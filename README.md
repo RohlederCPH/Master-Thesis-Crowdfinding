@@ -7,3 +7,7 @@ Recovering lost bicycles in a city can be a difficult task to overcome and it ca
 
 **Keywords:** 
 Crowdfinding, Localization, Android, Crowdsourcing, Pervasive Computing, Bluetooth Low Energy, BLE, RSSI, Network-assisted location.
+
+
+[Read thesis](https://github.com/RohlederCPH/Master-Thesis-Crowdfinding/blob/master/cf-thesis.pdf)
+
